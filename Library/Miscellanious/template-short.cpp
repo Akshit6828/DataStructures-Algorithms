@@ -24,7 +24,7 @@ int n, m, k;
 //=======================
 
 void solve() {
-  cin >> n;
+  cin >> n; 
 }
 
 int main() {
